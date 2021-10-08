@@ -1,0 +1,16 @@
+{
+  "data" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "compression-type" : "automatic",
+      "filename" : "Заставка.ai",
+      "idiom" : "iphone"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
